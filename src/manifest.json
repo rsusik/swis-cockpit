@@ -1,0 +1,13 @@
+{
+    "requires": {
+        "cockpit": "137"
+    },
+
+    "tools": {
+        "index": {
+            "label": "Scanner"
+        }
+    },
+    
+    "content-security-policy": "default-src 'self' http://192.168.1.105:5520 ; frame-src http://192.168.1.105:5520 ; object-src http://192.168.1.105:5520; frame-ancestors 'self' http://192.168.1.105:5520"
+}
