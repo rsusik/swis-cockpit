@@ -1,9 +1,9 @@
 {
-  "name": "swis-wrapper",
+  "name": "swis-cockpit",
   "description": "Simple Web-based Interface for Scanner wrapper for Cockpit",
   "type": "module",
   "main": "index.js",
-  "repository": "git@github.com:cockpit/starter-kit.git",
+  "repository": "git@github.com:rsusik/swis-cockpit.git",
   "author": "",
   "license": "LGPL-2.1",
   "scripts": {

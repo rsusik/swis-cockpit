@@ -38,8 +38,8 @@ On Fedora:
 These commands check out the source and build it into the `dist/` directory:
 
 ```
-git clone https://github.com/rsusik/swis-wrapper
-cd swis-wrapper
+git clone https://github.com/rsusik/swis-cockpit
+cd swis-cockpit
 make
 ```
 
@@ -59,7 +59,7 @@ this manually:
 
 ```
 mkdir -p ~/.local/share/cockpit
-ln -s `pwd`/dist ~/.local/share/cockpit/swis-wrapper
+ln -s `pwd`/dist ~/.local/share/cockpit/swis-cockpit
 ```
 
 After changing the code and running `make` again, reload the Cockpit page in
