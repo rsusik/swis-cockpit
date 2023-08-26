@@ -20,7 +20,7 @@ To use this project you have to:
 
 # Screenshot
 
-<img src="https://github.com/rsusik/swis-cockpit/raw/main/screenshot-01.png" width="300">
+<img src="https://github.com/rsusik/swis-cockpit/raw/main/screenshot-01.png" width="500">
 
 # Development dependencies
 
