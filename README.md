@@ -18,6 +18,10 @@ To use this project you have to:
 2) build the project (run `make`)
 3) install the app in cockpit
 
+# Screenshot
+
+<img src="https://github.com/rsusik/swis-cockpit/raw/main/screenshot-01.png" width="300">
+
 # Development dependencies
 
 On Debian/Ubuntu:
